@@ -15,8 +15,7 @@ Instructions
 ============
 
 
-Chrome:
--------
+###Chrome:
 
 1. Signup at [http://pastesapp.tk/](http://pastesapp.tk/) & note down the *key*
 2. Download the latest extension from [http://pastesapp.tk/paste.crx](http://pastesapp.tk/paste.crx)
@@ -26,26 +25,28 @@ Chrome:
 6. Go to *Options* and enter the *key*
 
 
-App:
-----
+###App:
 
 1. Visit [http://pastesapp.tk/m](http://pastesapp.tk/m)
 2. Go to *Settings* and enter the *key*
+
+If you are using an iPhone, then the following steps will enhance the experience:
+
+3. Tap on the *Arrow* button at the bottom
+4. Tap on *Add to Homescreen*
 
 
 Usage
 =====
 
-Chrome:
--------
+###Chrome:
 
 1. Select a piece of text
 2. Right-click and click on *Send selection to Paste*
 3. Wait for the confirmation pop-up
 4. (optional) Click on the extension's *icon* next to the URL bar to see the 5 latest pastes
 
-Phone:
-------
+###Phone:
 
 The UI is self-explanatory
 
